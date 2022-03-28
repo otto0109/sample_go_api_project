@@ -1,7 +1,7 @@
 package main
 
 import (
-	"event_service/api/routes"
+	"sample_go_api_project/api/routes"
 )
 
 func main() {

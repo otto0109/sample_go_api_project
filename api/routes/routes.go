@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"event_service/api/controller"
 	"github.com/gin-gonic/gin"
+	"sample_go_api_project/api/controller"
 )
 
 type router struct {
